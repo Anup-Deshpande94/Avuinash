@@ -5,6 +5,7 @@ int main()
 {
 printf("hellow anup");
 printf("hello Avinash");
-printf("hellow nitin");
+printf("hello nitin");
+printf("hello vishal");
 return 0;
 }
