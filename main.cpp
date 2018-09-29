@@ -5,5 +5,6 @@ int main()
 {
 
 cout<<"GO to home"<<endl;
+cout<< " hey "<< endl;
 return 0;
 }
