@@ -3,9 +3,8 @@
 
 int main()
 {
-
+printf("hellow anup");
 printf("hello Avinash");
 
 return 0;
-
 }
